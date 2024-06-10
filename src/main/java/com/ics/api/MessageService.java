@@ -20,7 +20,7 @@ public class MessageService {
 		System.out.println(m2);
 		return messages;
 
-//		return new ArrayList<Message>(messages);
+//		return new ArrayList<Message>(messages); hashed out
 	}
 
 	public Message getMessage(long id) {
